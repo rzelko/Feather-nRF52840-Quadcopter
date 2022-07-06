@@ -8,6 +8,6 @@ I am now testing the quadcopter motor control again, having have made a few sign
 
 I have modified the frame for 19000kV 615 motors and reduced the overall weight of the assemly with battery to 52g.  Still, not enough lift can be created before the Sense cuts out, although I can get up to a PWM setting of 250.  Hopefully the 60C batteries will do the trick.  Also, I am switching to tri blade props to see if that will help create more lift. 
 
-(06/27/22) UPDATE:  I have plenty of power using the 380mAh 60C batteries. Note that the battery polarity MUST BE REVERSED to work with the Feather Sense MCU.  These batteries generate a tremendous amount of power for the 15000kV 8520 motors.  I will eventually upgrade to the 550mAh 100C version to gain better flight time.  I doubt the additional 8g mill make much of a difference. 
+(06/27/22) UPDATE:  I have plenty of power using the 380mAh 60C batteries. Note that the battery polarity MUST BE REVERSED to work with the Feather Sense MCU.  These batteries generate a tremendous amount of power for the 15000kV 8520 motors.  I will eventually upgrade to the 550mAh 100C version to gain better flight time.  I doubt the additional 8g will make much of a difference. 
 
 Now if I can just figure out how to stabilize and control this quad.....
